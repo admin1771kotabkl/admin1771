@@ -1,2 +1,2 @@
-# wony01.github.io
+# admin1771kotabkl.github.io
 permalink: /index.html
